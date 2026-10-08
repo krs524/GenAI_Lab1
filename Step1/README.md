@@ -2,7 +2,7 @@
 
 ## Overview
 
-In the step 1, I tested a pretrained YOLO11 model on everyday objects using my laptop camera. I used the provided webcam object recognition project and tested the model on few captured images to observe how well it detected different objects.
+In step 1, I tested a pretrained YOLO11 model on everyday objects using my laptop camera. I used the provided webcam object recognition project and tested the model on few captured images to observe how well it detected different objects.
 
 ## Files
 
