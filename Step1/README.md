@@ -65,6 +65,6 @@ Based on these results, I selected the hanger for further fine-tuning in Step 2.
 
 ## Reference
 
-This experiment was based on the following given GitHub repository:
+Given GitHub repository in assignment:
 
 https://github.com/valeriouberti/webcam-object-recognition
