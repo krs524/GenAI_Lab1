@@ -1,1 +1,1 @@
-# Step 3 YOLOE results.
+# Step 3: YOLOE results.
