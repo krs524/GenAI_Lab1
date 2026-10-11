@@ -47,8 +47,8 @@ An additional text-prompt experiment using `dogs tail` was also performed in the
 
 The annotated video outputs are available in the `results/` folder:
 
-- [Suitcase Detection Result](Step3/results/suitcases-1280x720-result.mp4)
-- [Croissant Detection Result](Step3/results/croissant-1280x720-result.mp4)
+- [Suitcase Detection Result](results/suitcases-1280x720-result.mp4)
+- [Croissant Detection Result](results/croissant-1280x720-result.mp4)
 
 Image predictions and sampled video frames can be viewed directly in the notebook.
 
