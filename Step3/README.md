@@ -45,7 +45,7 @@ The following observations were recorded across the four experiments:
 
 An additional text-prompt experiment using `dogs tail` was also performed in the notebook.
 
-The annotated video outputs are available in the `results/` folder:
+The annotated video outputs are available in the `results/` folder and can be downloaded for viewing:
 
 - [Suitcase Detection Result](results/suitcases-1280x720-result.mp4)
 - [Croissant Detection Result](results/croissant-1280x720-result.mp4)
